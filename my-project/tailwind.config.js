@@ -2,7 +2,14 @@
 export default {
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'secta-light-green': '#a9eb8d',   // Azul personalizado
+        'secta-brown': '#574647',  // Verde personalizado
+        'secta-green': '#317f54',
+        // Rojo personalizado
+      },
+    },
   },
   plugins: [],
-};
+}

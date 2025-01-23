@@ -9,6 +9,9 @@ export default {
         'secta-green': '#317f54',
         // Rojo personalizado
       },
+      fontFamily: {
+        now: ['Now', 'sans-serif'],
+      },
     },
   },
   plugins: [],

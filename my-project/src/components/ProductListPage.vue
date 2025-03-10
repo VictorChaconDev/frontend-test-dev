@@ -5,7 +5,7 @@
         v-model="search"
         type="text"
         placeholder="Buscar por marca o modelo..."
-        class="border p-2 rounded"
+        class="border flex p-2 mb-5 w-1/4 rounded"
       />
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
       <router-link

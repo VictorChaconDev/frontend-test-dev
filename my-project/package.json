@@ -13,10 +13,12 @@
   "dependencies": {
     "@primeuix/themes": "^1.0.0-rc.1",
     "@primevue/themes": "^4.2.5",
+    "axios": "^1.8.2",
     "primevue": "^4.2.5",
     "swiper": "^11.2.1",
     "vue": "^3.5.13",
-    "vue-carousel-3d": "^1.0.1",
+    "vue-axios": "^3.5.2",
+    "vue-carousel-3d": "^0.2.0",
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
